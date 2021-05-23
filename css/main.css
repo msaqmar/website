@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&display=swap');
+
+
+body{
+    font-family: asap;
+}
+a{
+    text-decoration: none;
+}
+
+.abc{
+    background-image: url("../images/buildings.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#contactUs{
+    background-image: url("../images/wp.jpg");
+    background-size: cover;
+    background-position: center;
+}
