@@ -20,9 +20,4 @@ a{
     background-position: center;
 }
 
-@media only screen and (min-width: 991px) {
-    .abc{
-        height: 100vh;
-    }
-    
-}
+
